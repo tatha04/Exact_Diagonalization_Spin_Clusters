@@ -1,4 +1,4 @@
-# Spin Clusters
+# Exact Diagonalization of Spin Clusters
 
 This module studies finite-size spin-systems or clusters using the exact diagonalization technique.
 This is accomplished using a class 'Spin_Cluster' that contain attributes to set up and diagonalize the Hamiltonian to find out the energy eigenvalues of the spin system.
